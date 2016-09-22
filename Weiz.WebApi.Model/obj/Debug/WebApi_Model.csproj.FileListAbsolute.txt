@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\WebApi\WebApi_Model\bin\Debug\WebApi_Model.dll
+C:\Users\Administrator\Desktop\WebApi\WebApi_Model\bin\Debug\WebApi_Model.pdb
+C:\Users\Administrator\Desktop\WebApi\WebApi_Model\obj\Debug\WebApi_Model.dll
+C:\Users\Administrator\Desktop\WebApi\WebApi_Model\obj\Debug\WebApi_Model.pdb
+E:\vs2012\WebApi\WebApi\WebApi_Model\bin\Debug\WebApi_Model.dll
+E:\vs2012\WebApi\WebApi\WebApi_Model\bin\Debug\WebApi_Model.pdb
+E:\vs2012\WebApi\WebApi\WebApi_Model\obj\Debug\WebApi_Model.dll
+E:\vs2012\WebApi\WebApi\WebApi_Model\obj\Debug\WebApi_Model.pdb
+E:\vs2012\WebApi\WebApi\WebApi_Model\obj\Debug\WebApi_Model.csprojResolveAssemblyReference.cache
+E:\vs2012\Weiz.WebApi\WebApi_Model\bin\Debug\WebApi_Model.dll
+E:\vs2012\Weiz.WebApi\WebApi_Model\bin\Debug\WebApi_Model.pdb
+E:\vs2012\Weiz.WebApi\WebApi_Model\obj\Debug\WebApi_Model.dll
+E:\vs2012\Weiz.WebApi\WebApi_Model\obj\Debug\WebApi_Model.pdb

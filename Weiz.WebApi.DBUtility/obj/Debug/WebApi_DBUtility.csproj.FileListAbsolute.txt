@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\WebApi\WebApi_DBUtility\bin\Debug\WebApi_DBUtility.dll
+C:\Users\Administrator\Desktop\WebApi\WebApi_DBUtility\bin\Debug\WebApi_DBUtility.pdb
+C:\Users\Administrator\Desktop\WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.dll
+C:\Users\Administrator\Desktop\WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.pdb
+E:\vs2012\WebApi\WebApi\WebApi_DBUtility\bin\Debug\WebApi_DBUtility.dll
+E:\vs2012\WebApi\WebApi\WebApi_DBUtility\bin\Debug\WebApi_DBUtility.pdb
+E:\vs2012\WebApi\WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.dll
+E:\vs2012\WebApi\WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.pdb
+E:\vs2012\WebApi\WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.csprojResolveAssemblyReference.cache
+E:\vs2012\Weiz.WebApi\WebApi_DBUtility\bin\Debug\WebApi_DBUtility.dll
+E:\vs2012\Weiz.WebApi\WebApi_DBUtility\bin\Debug\WebApi_DBUtility.pdb
+E:\vs2012\Weiz.WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.dll
+E:\vs2012\Weiz.WebApi\WebApi_DBUtility\obj\Debug\WebApi_DBUtility.pdb

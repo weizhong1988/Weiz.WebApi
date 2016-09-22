@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemo.CachingSwaggerProvider.GetControllerDesc">
+            <summary>
+            从API文档中读取控制器描述
+            </summary>
+            <returns>所有控制器描述</returns>
+        </member>
+        <member name="T:SwaggerDemo.Controllers.ValuesController">
+            <summary>
+            值接口
+            </summary>
+        </member>
+        <member name="M:SwaggerDemo.Controllers.ValuesController.Get">
+            <summary>
+            获取值
+            </summary>
+            <returns>获取值</returns>
+        </member>
+        <member name="M:SwaggerDemo.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            根据id获取值
+            </summary>
+            <param name="id">id</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
